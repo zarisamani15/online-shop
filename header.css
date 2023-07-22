@@ -1,0 +1,55 @@
+header{
+    width: 100%;
+    background-color: black;
+    opacity: 0.85;
+    background-image: url("../image/unsplash_vLQraPNUTUc.png");
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+    margin-bottom:30px ;
+}
+header >div:first-child >img{
+    width: 25px;
+    margin: 5px;
+    border-radius: 50%;
+    display: inline;
+    
+}
+header >div>a{
+    text-align: right;
+    color: white;
+    margin: 20px;
+
+}
+header >div:last-child >img{
+    width: 60px;
+    height: 60px;
+    display:inline;
+    left: outo;
+}
+#title{
+    display: inline;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    margin: 20px;
+    margin-top:45px ;
+    justify-content: space-between;
+}
+#ti{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    justify-content: space-between;
+}
+header >div >p:last-child{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    margin-bottom: 100px ;
+    justify-content: space-between;
+}
