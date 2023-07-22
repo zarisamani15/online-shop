@@ -1,0 +1,129 @@
+section>button{
+    box-shadow:px 0px px;
+    border: hidden;
+    margin: 10px 50px;
+    height: 50px;
+    width: 250px;
+    display: inline;
+}
+section >button >img{
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    margin: 0%;
+    float: left;
+    justify-content: space-around;
+}
+ection >button >p{
+    display: inline-flex;
+    font-weight: bold;
+    font-size: large;
+    margin: 0%;
+}
+section >{
+    display: inline;
+    justify-content: space-between;
+}
+section >div>div{
+    width:200px ;
+    height: 300px;
+    background-color: #b3b1b166;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+    float: left;
+    padding: 10px;
+}
+section >div>div >img:first-of-type{
+    width: 150px;
+    height: 200px;
+    display: block;
+}
+section >div >div>p{
+    display: inline;
+    text-align: center;
+}
+section >div>div>p:last-child{
+    font-weight: bolder;
+}
+section >div>div>button{
+    background-color: #4a9c80;
+    color: white;
+    border-radius: 30px;
+    border: hidden;
+    padding: 5px;
+    margin: 10px;
+}
+section >div >div >img:last-child{
+    width: 28px;
+    height: 23px;
+    border: 1px solid black;
+    border-radius: 45%;
+}
+#aaaa{
+    background-color: #4a9c80;
+    border-radius: 20px;
+    border: hidden;
+    display: inline;
+    padding: px;
+}
+#aaaa>p{
+    display: inline;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+#aaaa>img{
+    width: 25px;
+    height: 25px;
+    display: inline;
+    float: right;
+}
+section>p:last-child{
+    font-weight: bold;
+    font-size: x-large;
+    display: inline;
+    text-align: right;
+}
+section>img:last-child{
+    width: 20px;
+    height: 20px;
+    display: inline;
+    float: right;
+}
+section>div:last-child>div:first-child{
+    padding: 20PX;
+}
+.aaaa1{
+    width:350px ;
+    height: 300px;
+    margin: 15PX;
+}
+section>div:last-child>div:last-child{
+    background-color: #e5f0ed;
+    width: 100%;
+    height: 1000;
+}
+section>div:last-child>div:last-child>p{
+    display: inline;
+    text-align: left;
+    color:black;
+    font-weight: bold;
+    font-size: large;
+}
+section>div:last-child>div:last-child>img:first-of-type{
+    width: 25px;
+    height: 25px;
+    display: inline;
+    float:inline-end ;
+    background-color: #e5f0ed;
+}
+section>div:last-child>div:last-child>img{
+    width:200px ;
+    height:200px;
+    border-radius: 0%;
+    border: hidden;
+    margin-left: 40px;
+    margin-top: 20px;
+}
